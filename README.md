@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 [MY CV](https://atomicblonde89.github.io/Curriculum-Vitae-Online/)
 
 Im Demian, electronic tech & currently learning Web Devs!
 
@@ -7,6 +7,8 @@ Im Demian, electronic tech & currently learning Web Devs!
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/luis-ram%C3%ADrez-collao/), [Email](mailto:learc47@gmail.com)
 - 😄 Pronouns: He/Him/Él 
 
-     ### [MY CV](https://atomicblonde89.github.io/Curriculum-Vitae-Online/)
+![gif](https://c.tenor.com/F22BAOorxHQAAAAC/work.gif)
+
+ 
 
 
